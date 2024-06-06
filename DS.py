@@ -11,14 +11,14 @@ import numpy as np
 # Load datasets
 datasets = {
     "u shape":"Multiple CSV/1.ushape.csv",
-    "concentric circle 1": r"C:\Users\ADMIN\Downloads\ml tasks\Multiple CSV/2.concerticcir1.csv",
-    "concentric circle 2": r"C:\Users\ADMIN\Downloads\ml tasks\Multiple CSV/3.concertriccir2.csv",
-    "linear sep": r"C:\Users\ADMIN\Downloads\ml tasks\Multiple CSV/4.linearsep.csv",
-    "outlier": r"C:\Users\ADMIN\Downloads\ml tasks\Multiple CSV/5.outlier.csv",
-    "overlap": r"C:\Users\ADMIN\Downloads\ml tasks\Multiple CSV/6.overlap.csv",
-    "xor": r"C:\Users\ADMIN\Downloads\ml tasks\Multiple CSV/7.xor.csv",
-    "two spirals": r"C:\Users\ADMIN\Downloads\ml tasks\Multiple CSV/8.twospirals.csv",
-    "random": r"C:\Users\ADMIN\Downloads\ml tasks\Multiple CSV/9.random.csv"
+    "concentric circle 1":"Multiple CSV/2.concerticcir1.csv",
+    "concentric circle 2": "Multiple CSV/3.concertriccir2.csv",
+    "linear sep": "Multiple CSV/4.linearsep.csv",
+    "outlier": "Multiple CSV/5.outlier.csv",
+    "overlap": "Multiple CSV/6.overlap.csv",
+    "xor": "Multiple CSV/7.xor.csv",
+    "two spirals": "Multiple CSV/8.twospirals.csv",
+    "random": "Multiple CSV/9.random.csv"
 }
 
 def load_dataset(dataset_path):
