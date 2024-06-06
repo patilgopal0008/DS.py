@@ -10,7 +10,7 @@ import numpy as np
 
 # Load datasets
 datasets = {
-    "u shape": r"C:\Users\ADMIN\Downloads\ml tasks\Multiple CSV/1.ushape.csv",
+    "u shape":"Multiple CSV/1.ushape.csv",
     "concentric circle 1": r"C:\Users\ADMIN\Downloads\ml tasks\Multiple CSV/2.concerticcir1.csv",
     "concentric circle 2": r"C:\Users\ADMIN\Downloads\ml tasks\Multiple CSV/3.concertriccir2.csv",
     "linear sep": r"C:\Users\ADMIN\Downloads\ml tasks\Multiple CSV/4.linearsep.csv",
